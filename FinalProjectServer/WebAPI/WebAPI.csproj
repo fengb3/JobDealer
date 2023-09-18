@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0-preview.2.23153.2" />
+        <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+        <PackageReference Include="sqlite-net-pcl" Version="1.9.141-beta" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Models\JobPost.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\Company.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\User.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\UserType.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\Chat.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\JobPostPoster.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\JobPostCategory.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\Person.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\ChatMessage.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Models\JobSeeker.cs">
+        <DependentUpon>IModel.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>

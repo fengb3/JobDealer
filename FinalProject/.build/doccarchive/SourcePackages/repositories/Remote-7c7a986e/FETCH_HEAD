@@ -1,0 +1,44 @@
+2a03313297a15f31b354dbf2b40c62ca9630b0a1	not-for-merge	branch 'main' of https://github.com/johnno1962/Remote
+59d71d11978366a2f08171e884c44961ee4f1dc9	not-for-merge	branch 'remote-header' of https://github.com/johnno1962/Remote
+1966e8772fdb5e89b6ede20b21bf65268e3751cc	not-for-merge	branch 'remote-hybrid' of https://github.com/johnno1962/Remote
+ef6ce3a1c3adad76e5b206e12fc943dcf7058704	not-for-merge	branch 'remote-key' of https://github.com/johnno1962/Remote
+ed54b51c85be829ccbb64e6c01630f9c9d5aa927	not-for-merge	branch 'remote-minicap' of https://github.com/johnno1962/Remote
+cbd988d78594f6cc076ed21d5acb4d3a22c5bb08	not-for-merge	branch 'remote-optimised' of https://github.com/johnno1962/Remote
+be3d545de242114996cc37e8f4e3040a350b0e34	not-for-merge	branch 'remote-parameters' of https://github.com/johnno1962/Remote
+84b5591bd58834d9206acdb22c5cf7ea8e72f9e3	not-for-merge	branch 'remote-reoptimised' of https://github.com/johnno1962/Remote
+ff599403d2bf69bac3a9c6984fc22587885ec8aa	not-for-merge	branch 'remote-rerework' of https://github.com/johnno1962/Remote
+73a299a8ca6ad27ed57f7a25cc7fe883b45b134c	not-for-merge	branch 'remote-rework' of https://github.com/johnno1962/Remote
+180190ef7587031b16fcdb94b0ba9c6f1f06c22c	not-for-merge	branch 'remote-scrolling' of https://github.com/johnno1962/Remote
+21d66f1779b0824d2f8881434bed670fddd414ba	not-for-merge	branch 'remote-sendtext' of https://github.com/johnno1962/Remote
+c44766f4d90beed1f0c872b71ed9662cfbb551e8	not-for-merge	branch 'remote-snapshot' of https://github.com/johnno1962/Remote
+1f1156b1f78a601263e491a83b06cdd84e891e83	not-for-merge	branch 'to-merge' of https://github.com/johnno1962/Remote
+fc477ece8ab6887c8c18ab7aacf608a315891fa1	not-for-merge	branch 'to-merge2' of https://github.com/johnno1962/Remote
+761e7d4dfb72d6187a647238d1e64d01c6598398	not-for-merge	branch 'us-nshost' of https://github.com/johnno1962/Remote
+ea080954c25ef1ec02605e2fe619fdb79b0be4e0	not-for-merge	branch 'use-compression' of https://github.com/johnno1962/Remote
+7ca35ca15af3d495e7c5e1b5ad5d52ed6c986428	not-for-merge	'refs/pull/10/head' of https://github.com/johnno1962/Remote
+bf07147ea3e35cf3a3ca4307c52afe3b30626478	not-for-merge	'refs/pull/11/head' of https://github.com/johnno1962/Remote
+971bde7011fd56fefb2f305cf49530883d8b8c41	not-for-merge	'refs/pull/12/head' of https://github.com/johnno1962/Remote
+30853f0f007fd8aaa32285b6ab35ed7c87a16465	not-for-merge	'refs/pull/13/head' of https://github.com/johnno1962/Remote
+761e7d4dfb72d6187a647238d1e64d01c6598398	not-for-merge	'refs/pull/14/head' of https://github.com/johnno1962/Remote
+1f1156b1f78a601263e491a83b06cdd84e891e83	not-for-merge	'refs/pull/15/head' of https://github.com/johnno1962/Remote
+fc477ece8ab6887c8c18ab7aacf608a315891fa1	not-for-merge	'refs/pull/16/head' of https://github.com/johnno1962/Remote
+9c164072e120d81228c83e4fc027ccd18e3ca74a	not-for-merge	'refs/pull/17/head' of https://github.com/johnno1962/Remote
+6b56047390c6cf74efc3e0e4f8aa6f78fead26ae	not-for-merge	'refs/pull/6/head' of https://github.com/johnno1962/Remote
+3cc585d90888a7b453f51953599924c8fbc122fe	not-for-merge	'refs/pull/8/head' of https://github.com/johnno1962/Remote
+1d23bb947679745fb0bd93a33e2311d35b28e391	not-for-merge	tag '1.0.0' of https://github.com/johnno1962/Remote
+470a46b720cb6a35fc898a04c52cb0bd81ae6dc1	not-for-merge	tag '2.0.0' of https://github.com/johnno1962/Remote
+f0c784a4becab3f1be5f71033b8dc8c0b47922ad	not-for-merge	tag '2.1.0' of https://github.com/johnno1962/Remote
+fedd46f4d32a6754722ad46be1f1a226b1878881	not-for-merge	tag '2.2.0' of https://github.com/johnno1962/Remote
+5222028a38604faba0324813566cf49ce04d62a1	not-for-merge	tag '2.2.1' of https://github.com/johnno1962/Remote
+8e767a7e92e2ad9ff1751ab06d7680238f9e2850	not-for-merge	tag '2.2.2' of https://github.com/johnno1962/Remote
+5ae151f1203f94dc5505a7bca0b3380f7168f382	not-for-merge	tag '2.2.3' of https://github.com/johnno1962/Remote
+49edb5517b935757025ff5372a9735d8d4ca495d	not-for-merge	tag '2.2.4' of https://github.com/johnno1962/Remote
+1bf2588ee805f43a50aa62493590f86565d5ffb4	not-for-merge	tag '2.2.5' of https://github.com/johnno1962/Remote
+03267b11c80167d81ee94c0ab7e36b875f3a1153	not-for-merge	tag '2.2.6' of https://github.com/johnno1962/Remote
+4a5273970460ce8ac7e510df1158b91f4a73a394	not-for-merge	tag '2.3.0' of https://github.com/johnno1962/Remote
+2ee18be3dc1db271fe775a705eee414b8c705126	not-for-merge	tag '2.3.1' of https://github.com/johnno1962/Remote
+74702751613c251a646f6dc66af59c6412e586d3	not-for-merge	tag '2.3.2' of https://github.com/johnno1962/Remote
+2890e0b212c20427e574b7519fc389883115bf85	not-for-merge	tag '2.3.3' of https://github.com/johnno1962/Remote
+c6cc410e761f958e15a2129a6b7dff830de5cb68	not-for-merge	tag '2.3.4' of https://github.com/johnno1962/Remote
+ae7baa1789e7303a9d192c471f7373253a966c0a	not-for-merge	tag '2.3.5' of https://github.com/johnno1962/Remote
+78cc6ba79d80b00371e4ff87b5356378ebc4a0cf	not-for-merge	tag 'no-autoconnect' of https://github.com/johnno1962/Remote

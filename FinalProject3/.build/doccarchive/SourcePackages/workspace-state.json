@@ -1,0 +1,112 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "hotreloading",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/johnno1962/HotReloading",
+          "name" : "HotReloading"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "eb95b36c637cb0e88bba7972c28f9b507ec95e54",
+            "version" : "4.11.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "HotReloading"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "remote",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/johnno1962/Remote",
+          "name" : "RemotePlugin"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "2a03313297a15f31b354dbf2b40c62ca9630b0a1",
+            "version" : "2.3.5"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Remote"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "signalr-client-swift",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/moozzyk/SignalR-Client-Swift",
+          "name" : "SignalRClient"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "d628dbffb8b72a265dd26ee03cc3f18e2fe53cad",
+            "version" : "0.9.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SignalR-Client-Swift"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swiftregex5",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/johnno1962/SwiftRegex5",
+          "name" : "SwiftRegex"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "8ecb4a8570757b7f8bce72f82242742e13891f99",
+            "version" : "5.2.3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SwiftRegex5"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swifttrace",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/johnno1962/SwiftTrace",
+          "name" : "SwiftTrace"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "0443b560ad6d1936ad7cbf0733cfa2ce74ae6e2e",
+            "version" : "8.4.3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SwiftTrace"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "xprobeplugin",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/johnno1962/XprobePlugin",
+          "name" : "XprobePlugin"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "069a8c03ae6663175c369e3858a8372ea3ee95f4",
+            "version" : "2.9.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "XprobePlugin"
+      }
+    ]
+  },
+  "version" : 6
+}

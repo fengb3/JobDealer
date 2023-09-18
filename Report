@@ -1,0 +1,72 @@
+## Title: JobDealer: A Comprehensive Report on Streamlining the Job Seeking and Hiring Process
+
+### Abstract:
+This report presents an overview of JobDealer, a solution designed to address the challenges in the job seeking and hiring process. The problem is outlined, followed by the approach to solving it, examples of the user interface, advanced techniques employed in the project, and suggestions for future work and enhancements.
+
+### 1. Introduction
+   JobDealer is a project aimed at solving the problem of inefficiencies and communication barriers in the job seeking and hiring process. In today's competitive job market, job seekers often struggle to get timely responses to their applications, while employers face challenges in finding the right candidates. The solution, JobDealer, is designed to create an intuitive platform for job seekers and employers to connect, communicate, and exchange information efficiently.
+
+### 2. Design and Approach
+   To tackle the aforementioned problem, the following design and approach were employed:
+
+- Module 1: Job Post Browsing
+  Description: This module allows job seekers to browse and search for job posts within the app.
+  Implementation: Two sets of user interfaces and interaction logic were developed using SwiftUI for efficient app building. Data is stored on a server, with the client-side app communicating with it.
+
+- Module 2: Job Seeker Browsing
+  Description: This module allows employers to browse and search for job seekers within the app.
+  Implementation: Similar to Module 1, SwiftUI was used for efficient UI development and communication was established between the client-side app and server.
+
+- Module 3: Chat
+  Description: This module provides a chat interface for both parties to communicate and exchange files, such as resumes.
+  Implementation: The server-side was developed using .NET and the SignalR framework was utilized for real-time data exchange, enabling chat functionality. The WebApi was used for data management.
+
+### 3. Screenshots and Illustrations
+   Below are a series of screenshots illustrating the flow of JobDealer:
+
+   - Login :
+   
+      <img src = "asserts/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-04-28%20at%2019.24.06.png" width= 150>
+
+   - Job post browsing:
+  
+      <img src = "asserts/Simulator Screenshot - iPhone 14 - 2023-04-28 at 19.32.53.png" width= 150>
+
+   - Job post detail view
+
+      <img src = "asserts/Simulator Screenshot - iPhone 14 - 2023-04-28 at 19.33.18.png" width= 150>
+
+   - Job seekers browsing
+
+      <img src = "asserts/Simulator Screenshot - iPhone 14 - 2023-04-28 at 19.36.53.png" width= 150>
+
+   - Job seeker searching
+
+      <img src = "asserts/Simulator Screenshot - iPhone 14 - 2023-04-28 at 19.38.30.png" width= 150>
+
+   - contacts list
+
+      <img src = "asserts/Simulator Screenshot - iPhone 14 - 2023-04-28 at 19.35.34.png" width= 150>
+
+   - chat
+
+      <img src = "asserts/Simulator Screenshot - iPhone 14 - 2023-04-28 at 19.33.49.png" width= 150>
+
+   - sharing files
+
+      <img src = "asserts/Simulator Screenshot - iPhone 14 Pro - 2023-04-28 at 19.43.38.png" width= 150>
+
+### 4. Advanced Techniques and Innovations
+   Throughout the development of JobDealer, several techniques and innovations were utilized that were above and beyond the regular scope:
+
+- Real-time chat and file exchange: The implementation of real-time chat and file exchange features sets JobDealer apart from other job-seeking platforms.
+
+### 5. Conclusion and Future Work
+   JobDealer has successfully addressed the core functionalities required to streamline the job seeking and hiring process. However, there is always room for improvement and expansion. Future work and enhancements that could further improve the project include:
+
+- Recommendations: Implementing a system to recommend job posts or job seekers based on user preferences and history.
+- Enhanced chat functionality: Allowing users to send a wider variety of message types, such as images, audio, and more.
+- Bookmarking and sharing: Enabling users to bookmark job posts or job seekers and share them with others.
+- Building a community: Creating a space for users to share content and experiences, fostering a sense of community among users.
+
+By implementing these enhancements and continually refining JobDealer, the challenges in the job seeking and hiring process can be better addressed, ultimately creating a more efficient and user-friendly solution.
